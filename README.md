@@ -1,4 +1,4 @@
-![A vintage style postcard. In the middle, in large font is the name 'Mars'. The background contains ocean waves and stars.](https://user-images.githubusercontent.com/46167686/116712991-64733500-a9a2-11eb-9a4f-640867816a6f.png)
+![A vintage style postcard. The text reads 'Greetings from Mars, developer and designer'. The background contains ocean waves and stars.](https://user-images.githubusercontent.com/46167686/116712991-64733500-a9a2-11eb-9a4f-640867816a6f.png)
 Dearest Earthling,
 
 Here are 4 fun facts about Mars!

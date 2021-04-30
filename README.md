@@ -7,7 +7,6 @@ Here are 4 fun facts about Mars!
 - They are currently contributing to open-source projects, specifically to NumPy's website, documentation and accessibility
 - They have a wecbomic called '[CodeSprite Explains](https://twitter.com/codespritee)' which illustrates code concepts in fun ways! They'll update it again eventually...
 - They started their journey by making art of their Neopets on MS-Paint and never quite stopped
-- 
 <!--
 **MarsBarLee/marsbarlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

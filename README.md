@@ -3,10 +3,10 @@ Dearest Earthling,
 
 Here are 4 fun facts about Mars!
 
-- They work at Quansight, poking at front-end code
-- They are currently contributing to open-source projects, specifically to NumPy's website, documentation and accessibility
-- They have a webcomic called '[CodeSprite Explains](https://twitter.com/codespritee)' which illustrates code concepts in fun ways! They'll update it again eventually...
-- They started their digital journey by making art of their Neopets on MS-Paint and never quite stopped
+- She works at Quansight, poking at front-end code
+- She is currently contributing to open-source projects, specifically to NumPy's website, documentation and accessibility
+- She has a webcomic called '[CodeSprite Explains](https://twitter.com/codespritee)' which illustrates code concepts in fun ways! They'll update it again eventually...
+- She started their digital journey by making art of their Neopets on MS-Paint and never quite stopped
 <!--
 **MarsBarLee/marsbarlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

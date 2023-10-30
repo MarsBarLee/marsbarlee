@@ -1,6 +1,9 @@
 ![A promotional graphic of Mars holding up a comic. They say Psst, hey! I'm giving out comics! Come to my talk to get a copy. My talk is Comics in NumPy? More Likely than you think!"](https://raw.githubusercontent.com/MarsBarLee/marsbarlee.github.io/main/images/promotional%20graphic-github.png)
 
 - Writing and illustrating a comic: How to Contribute to NumPy
+  - [Digital, flippable version](https://heyzine.com/flip-book/3e66a13901.html)  
+  - [Repository](https://github.com/MarsBarLee/gsod-numpy-2023)
+  - Soon: Video to talk!
 
 
 <!--

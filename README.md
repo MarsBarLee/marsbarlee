@@ -1,12 +1,8 @@
-![A vintage style postcard. The text reads 'Greetings from Mars, developer and designer'. The background contains ocean waves and stars.](https://user-images.githubusercontent.com/46167686/116712991-64733500-a9a2-11eb-9a4f-640867816a6f.png)
-Dearest Earthling,
+![A promotional graphic of Mars holding up a comic. They say "Psst, hey! I'm giving out comics! Come to my talk to get a copy. My talk is Comics in NumPy? More Likely than you think!"]([https://user-images.githubusercontent.com/46167686/116712991-64733500-a9a2-11eb-9a4f-640867816a6f.png](https://github.com/MarsBarLee/marsbarlee.github.io/blob/main/images/promotional-graphic-print-10-27-2023.png?raw=true))
 
-Here are 4 fun facts about Mars!
+- Writing and illustrating a comic: How to Contribute to NumPy
 
-- She works at Quansight, poking at front-end code
-- She is currently contributing to open-source projects, specifically to NumPy's website, documentation and accessibility
-- She has a webcomic called '[CodeSprite Explains](https://twitter.com/codespritee)' which illustrates code concepts in fun ways! It'll update it again eventually...
-- She started their digital journey by making art of their Neopets on MS-Paint and never quite stopped
+
 <!--
 **MarsBarLee/marsbarlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

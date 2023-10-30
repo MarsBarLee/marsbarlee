@@ -1,4 +1,4 @@
-![A promotional graphic of Mars holding up a comic. They say Psst, hey! I'm giving out comics! Come to my talk to get a copy. My talk is Comics in NumPy? More Likely than you think!"](https://github.com/MarsBarLee/marsbarlee.github.io/blob/main/images/promotional-graphic-print-10-27-2023.png?raw=true)
+![A promotional graphic of Mars holding up a comic. They say Psst, hey! I'm giving out comics! Come to my talk to get a copy. My talk is Comics in NumPy? More Likely than you think!"](https://raw.githubusercontent.com/MarsBarLee/marsbarlee.github.io/main/images/promotional%20graphic-github.png)
 
 - Writing and illustrating a comic: How to Contribute to NumPy
 

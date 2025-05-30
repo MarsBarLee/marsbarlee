@@ -3,7 +3,7 @@
 - Writing and illustrating a comic: How to Contribute to NumPy
   - [Digital, flippable version](https://heyzine.com/flip-book/3e66a13901.html)  
   - [Repository](https://github.com/MarsBarLee/gsod-numpy-2023)
-  - Soon: Video to talk!
+  - [Talk at PyData NYC 2023](https://www.youtube.com/watch?v=Gv_Ea94wquM)
 
 
 <!--
